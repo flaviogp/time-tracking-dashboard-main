@@ -42,8 +42,8 @@ This is a solution to the [Time tracking dashboard main challenge on Frontend Me
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Time tracking dashboard main (ReactJs) | Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-tailwind-css-javascript-Z0Z01zbyl6)
-- Live Site URL: [ Click here ](##)
+- Solution URL: [Time tracking dashboard main (ReactJs) | Frontend Mentor](https://www.frontendmentor.io/solutions/time-tracking-dashboard-main-using-reactjs-9HpTo0Sbby)
+- Live Site URL: [ Click here ](https://celebrated-mousse-ee1d1b.netlify.app/)
 
 <br>
 
@@ -62,8 +62,9 @@ This is a solution to the [Time tracking dashboard main challenge on Frontend Me
 
 Users should be able to:
 
-- View the optimal layout for the component depending on their device's screen size
-- See the social media share links when they click the share icon
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Switch between viewing Daily, Weekly, and Monthly stats
 
 ## My process
 
@@ -71,20 +72,17 @@ Users should be able to:
 
 <!-- Bagdes -->
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/reactjs-23272F?style=for-the-badge&logo=react&logoColor=149ECA)
 
-- Tailwind CSS
-- Semantic HTML5 markup
+- ReactJs
 
 ### Useful resources
 
-- [Tailwind CSS](https://tailwindcss.com/)
+- [ReactJs](https://react.dev/)
 
 ## Author
 
-- Frontend Mentor - [@melvinaguilar](https://www.frontendmentor.io/profile/melvinaguilar)
+- Frontend Mentor - [@flaviogp](https://www.frontendmentor.io/profile/flaviogp)
 
 ## Acknowledgments
 
