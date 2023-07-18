@@ -94,3 +94,6 @@ To run the client, you need to run the following command:
 npm install
 npm run dev
 ```
+
+## LigthHouse review
+![](./src/assets/lighthouse-review.jpg)
